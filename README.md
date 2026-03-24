@@ -237,7 +237,7 @@ The **étale cohomology** $H^n_{\text{ét}}(X, \mathbb{Q}_\ell)$ is the cohomolo
 
 For $X$ a smooth projective variety of dimension $d$ over $\mathbb{F}_q$:
 
-**Rationality:** The zeta function $Z(X, t) = \exp\!\bigl(\sum_{n=1}^\infty |X(\mathbb{F}_{q^n})| t^n/n\bigr)$ is a rational function:
+**Rationality:** The zeta function $Z(X, t) = \exp\!\left(\sum_{n=1}^\infty |X(\mathbb{F}_{q^n})| \cdot t^n/n\right)$ is a rational function:
 
 $$Z(X, t) = \frac{P_1(t) \cdot P_3(t) \cdots P_{2d-1}(t)}{P_0(t) \cdot P_2(t) \cdots P_{2d}(t)}$$
 
